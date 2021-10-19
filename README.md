@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @spokedu13
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hello everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!---
-spokedu13/spokedu13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+That's ***@[spokedu13](https://pages.github.com/)*** and I'm a developper Web PHP / Mobile
+
+## :wrench: Technologies & Tools
+
+###### Front End
+
+![](https://img.shields.io/badge/.-html-%23E34F26?style=for-the-badge&logo=html5) ![](https://img.shields.io/badge/.-css3-%231572B6?style=for-the-badge&logo=css3) ![](https://img.shields.io/badge/.-javascript-%23F7DF1E?style=for-the-badge&logo=javascript) ![](https://img.shields.io/badge/.-swift-%23FA7343?style=for-the-badge&logo=swift) ![](https://img.shields.io/badge/.-kotlin-%237F52FF?style=for-the-badge&logo=kotlin) ![](https://img.shields.io/badge/.-java-%23007396?style=for-the-badge&logo=java) 
+
+![](https://img.shields.io/badge/.-jQuery-%230769AD?style=for-the-badge&logo=jquery) ![](https://img.shields.io/badge/.-bootstrap-%237952B3?style=for-the-badge&logo=bootstrap) 
+
+###### Back End
+
+![](https://img.shields.io/badge/.-Php-%23777BB4?style=for-the-badge&logo=php)
+
+![](https://img.shields.io/badge/.-MySQL-%234479A1?style=for-the-badge&logo=mysql)
+
+![](https://img.shields.io/badge/.-symfony-%23000000?style=for-the-badge&logo=symfony) 
+
+![](https://img.shields.io/badge/.-Firebase-%23FFCA28?style=for-the-badge&logo=firebase)
+
+## :eyes: Interests
+
+- Photography
+- Travelling
+
+## :mag: How to reach me ?
+
+:globe_with_meridians: [www.anthonybarrin.fr](https://www.anthonybarrin.fr)
+
+:mailbox: contact@creez-votre-site.fr
+
+## Citations 
+
+> The strengh has no limit.
