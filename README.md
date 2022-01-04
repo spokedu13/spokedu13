@@ -25,6 +25,7 @@ That's ***@[spokedu13](https://pages.github.com/)*** and I'm a developper Web PH
 ## :eyes: Interests
 
 - Web and Mobile Technologies 
+- 2D and 3D Games
 - Photography
 - Travelling
 
