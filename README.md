@@ -1,5 +1,5 @@
 # Hello everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 😄
-That's ***@[spokedu13](https://pages.github.com/)*** and I'm a developper Web PHP MySQL && Mobile for Apple and Android
+That's ***@[spokedu13](https://pages.github.com/)*** and I'm a French developper Web PHP MySQL && Mobile for Apple and Android
 
 
 ## :wrench: Technologies & Tools
@@ -20,7 +20,7 @@ That's ***@[spokedu13](https://pages.github.com/)*** and I'm a developper Web PH
 
 ###### - Mobile
 
-![](https://img.shields.io/badge/.-swift-%23FA7343?style=for-the-badge&logo=swift) ![](https://img.shields.io/badge/.-kotlin-%237F52FF?style=for-the-badge&logo=kotlin) ![](https://img.shields.io/badge/.-java-%23007396?style=for-the-badge&logo=java) 
+![](https://img.shields.io/badge/.-swift-%23FA7343?style=for-the-badge&logo=swift) ![](https://img.shields.io/badge/.-kotlin-%237F52FF?style=for-the-badge&logo=kotlin)
 
 ## :eyes: Interests
 
