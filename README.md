@@ -37,4 +37,4 @@ That's ***@[spokedu13](https://pages.github.com/)*** and I'm a French developper
 
 ## Citations 
 
-> Strengh has no limit.
+> Strength and Knowledge have no limits.
