@@ -1,5 +1,5 @@
 # Hello everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 😄
-That's ***@[spokedu13](https://pages.github.com/)*** and I'm a French developper Web PHP MySQL && Mobile for Apple and Android
+That's ***@[spokedu13](https://pages.github.com/)*** and I'm a French developper Web PHP/MySQL Symfony && Mobile Swift iOS && Kotlin Android.
 
 
 ## :wrench: Technologies & Tools
