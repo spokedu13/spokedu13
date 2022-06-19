@@ -1,6 +1,6 @@
 # Hello everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> 😄 That's ***@[spokedu13](https://spokedu13.github.io/)***
 
-## Self-taught Programmer && a Lifelong Learner
+## :seedling: Self-taught Programmer && a Lifelong Learner
 
 I'm a French Web and Mobile developer, living at Marseille, France. Self-taught by nature, I like to develop web and mobile applications while learning new techniques each day.
 
