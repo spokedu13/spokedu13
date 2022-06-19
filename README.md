@@ -1,5 +1,5 @@
 # Hello everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> 😄
-That's ***@[spokedu13](https://spokedu13.github.io/)*** and I'm a French Web and Mobile developer, living at Marseille, France. I like developing web and mobile applications while learning new techniques each day.
+That's ***@[spokedu13](https://spokedu13.github.io/)*** and I'm a French Web and Mobile developer, living at Marseille, France. Self-taught by nature, I like to develop web and mobile applications while learning new techniques each day.
 
 
 ## :wrench: Technologies & Tools
