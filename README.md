@@ -2,7 +2,7 @@
 
 ## :seedling: Self-taught Programmer && a Lifelong Learner
 
-I'm a French Web and Mobile developer, living at Marseille, France. Self-taught by nature, I like to develop web and mobile applications while learning new techniques each day.
+I'm a French Web and Mobile developer, living at Marseille, France. Self-taught by nature, I like to develop complex web and mobile applications while learning new techniques each day.
 
 ## :wrench: Technologies && Tools
 
@@ -27,7 +27,7 @@ I'm a French Web and Mobile developer, living at Marseille, France. Self-taught 
 ## :eyes: Interests
 
 - Web and Mobile Technologies 
-- 2D and 3D Games on Mobile
+- 2D and 3D Games on iOS and iPadOS
 - Photography
 - Travelling
 
