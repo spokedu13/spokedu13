@@ -24,11 +24,11 @@ I'm a French Web and Mobile developer, living at Marseille, France. Self-taught 
 
 ![](https://img.shields.io/badge/.-swift-%23FA7343?style=for-the-badge&logo=swift)
 
-## :pushpin: What I'm learning in this moment
+## :book: What I'm learning in this moment
 
 - VueJS
 
-## :pushpin: What I Would like to learn in the future
+## :dart: What I would like to learn in the future
 
 ![](https://img.shields.io/badge/.-kotlin-%237F52FF?style=for-the-badge&logo=kotlin)
 - Flutter
