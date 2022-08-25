@@ -26,13 +26,13 @@ I'm a French Web and Mobile developer, living at Marseille, France. Self-taught 
 
 ## :book: What I'm learning in this moment
 
-![](https://img.shields.io/badge/.-vuejs-%237F52FF?style=for-the-badge&logo=vuejs)
+![](https://img.shields.io/badge/.-vue.js-%4FC08D?style=for-the-badge&logo=vue.js)
 
 ## :dart: What I would like to learn in the future
 
 ![](https://img.shields.io/badge/.-kotlin-%237F52FF?style=for-the-badge&logo=kotlin)
-![](https://img.shields.io/badge/.-flutter-%237F52FF?style=for-the-badge&logo=flutter)
-![](https://img.shields.io/badge/.-dart-%237F52FF?style=for-the-badge&logo=dart)
+![](https://img.shields.io/badge/.-flutter-%02569B?style=for-the-badge&logo=flutter)
+![](https://img.shields.io/badge/.-dart-%0175C2?style=for-the-badge&logo=dart)
 
 ## :eyes: Interests
 
