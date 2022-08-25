@@ -6,13 +6,13 @@ I'm a French Web and Mobile developer, living at Marseille, France. Self-taught 
 
 ## :wrench: Technologies && Tools
 
-###### - Front End
+- Front End
 
 ![](https://img.shields.io/badge/.-html-%23E34F26?style=for-the-badge&logo=html5) ![](https://img.shields.io/badge/.-css3-%231572B6?style=for-the-badge&logo=css3) ![](https://img.shields.io/badge/.-javascript-%23F7DF1E?style=for-the-badge&logo=javascript)
 
 ![](https://img.shields.io/badge/.-jQuery-%230769AD?style=for-the-badge&logo=jquery) ![](https://img.shields.io/badge/.-bootstrap-%237952B3?style=for-the-badge&logo=bootstrap) 
 
-###### - Back End
+- Back End
 
 ![](https://img.shields.io/badge/.-Php-%23777BB4?style=for-the-badge&logo=php) ![](https://img.shields.io/badge/.-MySQL-%234479A1?style=for-the-badge&logo=mysql)
 
@@ -20,18 +20,19 @@ I'm a French Web and Mobile developer, living at Marseille, France. Self-taught 
 
 ![](https://img.shields.io/badge/.-Firebase-%23FFCA28?style=for-the-badge&logo=firebase)
 
-###### - Mobile
+- Mobile
 
 ![](https://img.shields.io/badge/.-swift-%23FA7343?style=for-the-badge&logo=swift)
 
 ## :book: What I'm learning in this moment
 
-- VueJS
+![](https://img.shields.io/badge/.-vuejs-%237F52FF?style=for-the-badge&logo=vuejs)
 
 ## :dart: What I would like to learn in the future
 
 ![](https://img.shields.io/badge/.-kotlin-%237F52FF?style=for-the-badge&logo=kotlin)
-- Flutter
+![](https://img.shields.io/badge/.-flutter-%237F52FF?style=for-the-badge&logo=flutter)
+![](https://img.shields.io/badge/.-dart-%237F52FF?style=for-the-badge&logo=dart)
 
 ## :eyes: Interests
 
