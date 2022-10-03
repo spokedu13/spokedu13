@@ -38,6 +38,7 @@ I'm a :fr: French Web and Mobile developer, living at Marseille, France. Self-ta
 
 - Web and Mobile Technologies 
 - 2D and 3D Games on iOS and iPadOS
+- Cybersecurity
 - Photography
 - Travelling
 
