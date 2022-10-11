@@ -18,8 +18,6 @@ I'm a :fr: French Web and Mobile developer, living at Marseille, France. Self-ta
 
 ![](https://img.shields.io/badge/.-symfony-%23000000?style=for-the-badge&logo=symfony) 
 
-![](https://img.shields.io/badge/.-Firebase-%23FFCA28?style=for-the-badge&logo=firebase)
-
 - Mobile
 
 ![](https://img.shields.io/badge/.-swift-%23FA7343?style=for-the-badge&logo=swift)
