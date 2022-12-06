@@ -2,7 +2,7 @@
 
 ## :seedling: Self-taught Programmer && a Lifelong Learner
 
-I'm a :fr: French Web and Mobile developer, living at Marseille, France. Self-taught by nature, I like to develop complex web and mobile applications while learning new techniques each day. 
+I'm a :fr: French Web and Mobile developer, living at Marseille, France. Self-taught by nature, I like to develop complex web and mobile applications while learning new techniques each day. Great desire and passion to build a product that can solve people's problems at scale.
 
 ## :wrench: Technologies && Tools
 
@@ -50,5 +50,6 @@ I'm a :fr: French Web and Mobile developer, living at Marseille, France. Self-ta
 
 ## Citations 
 
-> Strength and Knowledge have no limits.
+> When you stop learning, you will stop going forward.
+> Knowledge have no limits.
 > Everything is possible.
