@@ -50,7 +50,6 @@ I'm a :fr: French Web and Mobile developer, living at Marseille, France. Self-ta
 
 ## Citations 
 
-> When you stop learning, you will stop going forward.
-> In Tech, it's not so much what we know that counts, it's what we are able to learn.
-> Knowledge have no limits.
-> Everything is possible.
+> - When you stop learning, you will stop going forward.
+> - In Tech, it's not so much what we know that counts, it's what we are able to learn.
+> - Knowledge have no limits.
