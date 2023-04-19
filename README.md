@@ -46,7 +46,7 @@ I'm a :fr: French Web and Mobile developer, living at Marseille, France. Self-ta
 
 :globe_with_meridians: [www.anthonybarrin.fr](https://www.anthonybarrin.fr)
 
-:mailbox: contact@creez-votre-site.fr
+:mailbox: anthony.barrin@gmail.com
 
 ## Citations 
 
