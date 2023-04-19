@@ -42,6 +42,12 @@ I'm a :fr: French Web and Mobile developer, living at Marseille, France. Self-ta
 - Photography
 - Travelling
 
+## :trophy: Projects
+
+- [www.anayaconseil.com](https://www.anayaconseil.com)
+- [www.anayaplongee.com](https://www.anayaplongee.com)
+- [www.sylvainsuppa.com](https://www.sylvainsuppa.com)
+
 ## :mag: How to reach me ?
 
 :globe_with_meridians: [www.anthonybarrin.fr](https://www.anthonybarrin.fr)
