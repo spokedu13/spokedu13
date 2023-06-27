@@ -22,12 +22,6 @@ I'm a :fr: French Web and Mobile developer, living at Marseille, France. Self-ta
 
 ![](https://img.shields.io/badge/.-swift-%23FA7343?style=for-the-badge&logo=swift)
 
-## :dart: What I would like to learn in the future
-
-![](https://img.shields.io/badge/.-kotlin-%237F52FF?style=for-the-badge&logo=kotlin)
-![](https://img.shields.io/badge/.-flutter-%02569B?style=for-the-badge&logo=flutter)
-![](https://img.shields.io/badge/.-dart-%0175C2?style=for-the-badge&logo=dart)
-
 ## :eyes: Interests
 
 - Web and Mobile Technologies 
