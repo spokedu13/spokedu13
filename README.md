@@ -22,7 +22,7 @@ I'm a :fr: French Web and Mobile developer, living at Marseille, France. Self-ta
 
 ![](https://img.shields.io/badge/.-swift-%23FA7343?style=for-the-badge&logo=swift)
 
-## Others skills
+## :nut_and_bolt: Others skills
 
 - Versioning
 - Testing
