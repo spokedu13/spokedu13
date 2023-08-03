@@ -56,3 +56,53 @@ I'm a :fr: French Web and Mobile developer, living in Marseille, France. Self-ta
 > - When you stop learning, you will stop going forward.
 > - In Tech, it's not so much what we know that counts, it's what we are able to learn.
 > - Knowledge have no limits.
+
+## About Me in code
+
+```php
+<?php
+
+namespace Spokedu13;
+
+final class About extends Me
+{
+  private string $user = "Anthony Barrin";
+  private string $pronouns = "He | "His";
+  private array $hobbies = [
+    "Studying",
+    "Watching (animes, series and movies)",
+    "Electronic games",
+    "To stay up all night chasing that ONE SEMICOLON!",
+  ];
+
+  public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => '',
+                'position' => ''         
+            ]
+        ];
+    }
+
+  public function getSkills(): array
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Symfony::class
+        ];
+    }
+
+    public function getFutureGoal(): string
+    {
+        return 'To contribute to open source.';
+    }
+
+  public function Ambitions() {
+    findOutWhy42IsTheAnswerToEverything();
+    preventSkyNetCreation();
+    becomeImmortal();
+}
+}
+```
