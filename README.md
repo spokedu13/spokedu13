@@ -66,9 +66,10 @@ namespace Spokedu13;
 
 final class About extends Me
 {
-  private string $user = "Anthony Barrin";
+  private const $user = "Anthony Barrin";
   private string $pronouns = "He | His";
   private int $age = 30;
+  private bool $isPassionateAboutCoding = true;
   private array $hobbies = [
     "Studying",
     "Watching (animes, series and movies)",
@@ -100,7 +101,8 @@ final class About extends Me
       return 'To contribute to open source.';
   }
 
-  public function Ambitions() {
+  public function Ambitions(): void
+  {
       findOutWhy42IsTheAnswerToEverything();
       preventSkyNetCreation();
       becomeImmortal();
