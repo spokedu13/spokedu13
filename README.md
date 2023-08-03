@@ -67,7 +67,8 @@ namespace Spokedu13;
 final class About extends Me
 {
   private string $user = "Anthony Barrin";
-  private string $pronouns = "He | "His";
+  private string $pronouns = "He | His";
+  private int $age = 30;
   private array $hobbies = [
     "Studying",
     "Watching (animes, series and movies)",
@@ -76,33 +77,33 @@ final class About extends Me
   ];
 
   public function getCurrentWorkplace(): array
-    {
-        return [
+  {
+      return [
             'workplace' => [
                 'company' => '',
                 'position' => ''         
             ]
-        ];
-    }
+      ];
+  }
 
   public function getSkills(): array
-    {
-        return [
+  {
+      return [
             Php::class,
             Javascript::class,
             Symfony::class
         ];
-    }
+  }
 
-    public function getFutureGoal(): string
-    {
-        return 'To contribute to open source.';
-    }
+  public function getFutureGoal(): string
+  {
+      return 'To contribute to open source.';
+  }
 
   public function Ambitions() {
-    findOutWhy42IsTheAnswerToEverything();
-    preventSkyNetCreation();
-    becomeImmortal();
-}
+      findOutWhy42IsTheAnswerToEverything();
+      preventSkyNetCreation();
+      becomeImmortal();
+  }
 }
 ```
