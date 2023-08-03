@@ -66,7 +66,8 @@ namespace Spokedu13;
 
 final class About extends Me
 {
-  private const $user = "Anthony Barrin";
+  public const USER = "Anthony Barrin";
+
   private string $pronouns = "He | His";
   private int $age = 30;
   private bool $isPassionateAboutCoding = true;
