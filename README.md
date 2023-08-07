@@ -62,8 +62,16 @@ I'm a :fr: French Web and Mobile developer, living in Marseille, France. Self-ta
 ```php
 <?php
 
-namespace Spokedu13;
+declare(strict_types=1);
 
+namespace Spokedu13;
+/**
+ * This class allows me to introduce myself
+ * @package spokedu13
+ * @version 1.0
+ * @author Anthony Barrin <anthony.barrin@gmail.com>
+ * @link https://www.anthonybarrin.fr
+ */
 final class About extends Me
 {
   public const USER = "Anthony Barrin";
