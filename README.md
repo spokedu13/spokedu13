@@ -65,6 +65,7 @@ I'm a :fr: French Web and Mobile developer, living in Marseille, France. Self-ta
 declare(strict_types=1);
 
 namespace Spokedu13;
+
 /**
  * This class allows me to introduce myself
  * @package spokedu13
@@ -86,23 +87,22 @@ final class About extends Me
     "To stay up all night chasing that ONE SEMICOLON!",
   ];
 
-  public function getCurrentWorkplace(): array
+  public function getCurrentWorkplace(): string
   {
-      return [
-            'workplace' => [
-                'company' => '',
-                'position' => ''         
-            ]
-      ];
+      return "Marseille, France";
   }
 
   public function getSkills(): array
   {
-      return [
+      return ["hard-skills" => [
             Php::class,
             Javascript::class,
             Symfony::class
-        ];
+            ],
+            "soft-skills => [
+            
+            ]
+       ];
   }
 
   public function getFutureGoal(): string
