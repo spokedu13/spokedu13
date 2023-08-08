@@ -99,7 +99,7 @@ final class About extends Me
             Javascript::class,
             Symfony::class
             ],
-            "soft-skills => [
+            "soft-skills" => [
             
             ]
        ];
