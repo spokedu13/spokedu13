@@ -100,7 +100,7 @@ final class About extends Me
             Symfony::class
             ],
             "soft-skills" => [
-            
+            "Honest", "Patient", "Spirit of research", "Team Player", "Punctual"
             ]
        ];
   }
