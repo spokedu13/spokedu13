@@ -87,7 +87,7 @@ final class About extends Me
     "To stay up all night chasing that ONE SEMICOLON!",
   ];
 
-  public function getCurrentWorkplace(): string
+  public function getCity(): string
   {
       return "Marseille, France";
   }
@@ -107,7 +107,7 @@ final class About extends Me
 
   public function getFutureGoal(): string
   {
-      return 'To contribute to open source.';
+      return 'To become a good developer.';
   }
 
   public function Ambitions(): void
