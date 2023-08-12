@@ -87,11 +87,15 @@ final class About extends Me
     "To stay up all night chasing that ONE SEMICOLON!",
   ];
 
-  public function getCity(): string
+  public function getLocation(): string
   {
       return "Marseille, France";
   }
 
+  /**
+  * This method makes it possible to present my technical skills and my qualities.
+  * @return array Return my skills
+  */
   public function getSkills(): array
   {
       return ["hard-skills" => [
