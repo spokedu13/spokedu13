@@ -87,6 +87,10 @@ final class About extends Me
     "To stay up all night chasing that ONE SEMICOLON!",
   ];
 
+  /**
+  * This method gives my location.
+  * @return string Return City and Country
+  */
   public function getLocation(): string
   {
       return "Marseille, France";
