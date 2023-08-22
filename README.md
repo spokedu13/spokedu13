@@ -69,7 +69,7 @@ namespace Spokedu13;
 /**
  * This class allows me to introduce myself
  * @package spokedu13
- * @version 1.0
+ * @version 1.0.0
  * @author Anthony Barrin <anthony.barrin@gmail.com>
  * @link https://www.anthonybarrin.fr
  */
@@ -81,10 +81,9 @@ final class About extends Me
   private int $age = 30;
   private bool $isPassionateAboutCoding = true;
   private array $hobbies = [
+    "Coding",
     "Studying",
-    "Watching (animes, series and movies)",
-    "Electronic games",
-    "To stay up all night chasing that ONE SEMICOLON!",
+    "Watching (animes, series and movies)"
   ];
 
   /**
@@ -115,7 +114,7 @@ final class About extends Me
 
   public function getFutureGoal(): string
   {
-      return 'To become a good developer.';
+      return 'Become a good developer.';
   }
 
   public function Ambitions(): void
