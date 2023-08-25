@@ -83,7 +83,8 @@ final class About extends Me
   private array $hobbies = [
     "Coding",
     "Studying",
-    "Watching (animes, series and movies)"
+    "Web and Mobile Technologies",
+    "Cybersecurity"
   ];
 
   /**
@@ -114,13 +115,11 @@ final class About extends Me
 
   public function getFutureGoal(): string
   {
-      return 'Become a good developer.';
+      return 'Become a good developer and trainer.';
   }
 
   public function Ambitions(): void
   {
-      findOutWhy42IsTheAnswerToEverything();
-      preventSkyNetCreation();
       becomeImmortal();
   }
 }
