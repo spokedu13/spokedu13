@@ -64,11 +64,11 @@ I'm a :fr: French Web and Mobile developer, living in Marseille, France. Self-ta
 
 declare(strict_types=1);
 
-namespace Spokedu13;
+namespace Developer\Spokedu13;
 
 /**
  * This class allows me to introduce myself
- * @package spokedu13
+ * @package Developer/Spokedu13
  * @version 1.0.0
  * @author Anthony Barrin <anthony.barrin@gmail.com>
  * @link https://www.anthonybarrin.fr
