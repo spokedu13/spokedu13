@@ -57,7 +57,7 @@ I'm a :fr: French Web and Mobile developer, living in Marseille, France. Self-ta
 > - In Tech, it's not so much what we know that counts, it's what we are able to learn.
 > - Knowledge have no limits.
 
-## About Me in code
+## About Me in PHP code
 
 ```php
 <?php
