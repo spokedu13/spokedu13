@@ -73,7 +73,8 @@ namespace Developer\Spokedu13;
  * @author Anthony Barrin <anthony.barrin@gmail.com>
  * @link https://www.anthonybarrin.fr
  */
-final class About extends Me
+#[AsHuman]
+final class About extends Me implements DeveloperInterface
 {
   public const USER = "Anthony Barrin";
 
