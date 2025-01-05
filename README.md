@@ -79,7 +79,7 @@ final class About extends Me implements DeveloperInterface
   public const USER = "Anthony Barrin";
 
   private string $pronouns = "He | His";
-  private int $age = 30;
+  private int $age = 32;
   private bool $isPassionateAboutCoding = true;
   private array $hobbies = [
     "Coding",
